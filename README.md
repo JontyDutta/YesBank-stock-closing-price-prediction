@@ -2,8 +2,7 @@
 This repository contains the dataset and the monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month.
 
 
-![image](https://github.com/user-attachments/assets/65e1c4f7-8ff9-4a19-8f1b-9b5384cc7962)
-
+![image](https://github.com/user-attachments/assets/a1efbd3b-ea2c-4117-9ce2-c70f05805033)
 
 # **Project Summary -**
 
